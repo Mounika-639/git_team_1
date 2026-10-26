@@ -3,3 +3,25 @@ Hii..
 I want to explore git.
 
 Learning Git and GitHub...
+
+git - local
+GitHub - remote
+
+Basic commands :
+
+git --version
+git config -global username "username"
+git config -global email "email"
+git init
+git status
+git add . / git add filename
+git commit -m "message"
+git remote add origin URL
+git remote v
+git branch -m main
+git branch
+git switch -c new_branch_name
+git switch main/branch_to_switch
+git push -u origin branch_name / git push
+git pull origin main
+git rm -rf file/repo_name
