@@ -25,3 +25,7 @@ git switch main/branch_to_switch
 git push -u origin branch_name / git push
 git pull origin main
 git rm -rf file/repo_name
+
+
+
+please add the discription for each command 
